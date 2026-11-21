@@ -9,9 +9,9 @@ License: GPLv2 or later
 Full-site WordPress backup/restore plugin, English & French. Extension de sauvegarde/restauration WordPress, français et anglais.
 
 == Description ==
-Full-site backup in the native .igbk format, scheduled daily/weekly full backups, resumable import, SHA-256 verification, fast deletion and a full-site restore of wp-content and WordPress-prefixed database tables. No plugin-imposed total archive size limit; hosting and PHP limits apply. WordPress core and wp-config.php are not automatically restored. Not compatible with .wpress.
+Full-site backup in the native .igbk format, scheduled daily/weekly/monthly full backups (Algiers timezone), resumable import, SHA-256 verification, fast deletion and a full-site restore of wp-content and WordPress-prefixed database tables. No plugin-imposed total archive size limit; hosting and PHP limits apply. WordPress core and wp-config.php are not automatically restored. Not compatible with .wpress.
 
-Sauvegarde complète du site au format .igbk, programmation quotidienne ou hebdomadaire, importation avec reprise, vérification SHA-256, suppression rapide et restauration de wp-content et des tables SQL préfixées WordPress. Aucun plafond total imposé par le plugin ; les limites de l'hébergement et de PHP restent applicables. Le cœur WordPress et wp-config.php ne sont pas restaurés automatiquement. Format .wpress non compatible.
+Sauvegarde complète du site au format .igbk, programmation quotidienne, hebdomadaire ou mensuelle (fuseau horaire d’Alger), importation avec reprise, vérification SHA-256, suppression rapide et restauration de wp-content et des tables SQL préfixées WordPress. Aucun plafond total imposé par le plugin ; les limites de l'hébergement et de PHP restent applicables. Le cœur WordPress et wp-config.php ne sont pas restaurés automatiquement. Format .wpress non compatible.
 
 The interface language follows the administrator's WordPress profile language (English or French). La langue de l'interface suit la langue du profil utilisateur WordPress (anglais ou français).
 
